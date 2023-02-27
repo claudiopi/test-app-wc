@@ -30,6 +30,10 @@ export default class MasterView extends LitElement {
         Button
         <igc-ripple></igc-ripple>
       </igc-button>
+      <igc-button class="button">
+        Button
+        <igc-ripple></igc-ripple>
+      </igc-button>
     `;
   }
 }
